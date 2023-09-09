@@ -21,9 +21,16 @@ h1{
     display: flex;
     align-items: center;
 }
-.img2{
-    width: 6vmin;
+ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+ul li{
     margin-right: 20px;
+}
+li img{
+    width: 6vmin;
 }
 hr{
     border-width: 0.4vmin;
